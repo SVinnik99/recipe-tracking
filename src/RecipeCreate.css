@@ -1,0 +1,8 @@
+form td:nth-child(-n+3),td:nth-child(6){
+    width: 10%;
+}
+
+form td:nth-child(4),td:nth-child(5){
+    width: 30%
+}
+
